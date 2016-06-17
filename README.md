@@ -18,8 +18,7 @@ You will need to have git installed, and gits root directory in your PATHS.
 
 * Navigate to the directory you want the files to be stored. Shift-Right-click and select open command line here.
 * Type the command: ```git clone https://github.com/p24601/ComputerScienceClub```
-* You will have to enter your github username & password here (because this is a private repository)
-
+* 
 #### Step 2
 After making your changes, check your edits locally with ```mkdocs serve```
 
