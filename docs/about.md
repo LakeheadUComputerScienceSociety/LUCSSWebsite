@@ -9,6 +9,3 @@ We were founded in the summer of 2016 by Erik Tillberg & Francesco Cervellini wi
 ##Contributors
 * Erik Tillberg - 2016
 * Francesco Cervellini - 2016
-* Kyle Robinson - 2016
-* Luke Perrier - 2016
-* Steven Engler - 2016
