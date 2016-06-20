@@ -1,6 +1,6 @@
 #About
 
-The LUSCCC is a Lakehead University (soon to be) society for computer science students. Our goal is to provide you with as much information as possible to be successful in your academic career, and hopefully help you gain the skills you need for your post-grad career as well.
+The LUCSS is a Lakehead University (soon to be) society for computer science students. Our goal is to provide you with as much information as possible to be successful in your academic career, and hopefully help you gain the skills you need for your post-grad career as well.
 
 ##Founders
 
@@ -9,3 +9,4 @@ We were founded in the summer of 2016 by Erik Tillberg & Francesco Cervellini wi
 ##Contributors
 * Erik Tillberg - 2016
 * Francesco Cervellini - 2016
+* Danny Kivi

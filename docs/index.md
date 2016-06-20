@@ -1,6 +1,6 @@
-# Welcome to LUCSSS
+# Welcome to LUCSS
 
-Welcome to the Lakehead University Computer Science Student Society. Here we'll try to gather as much information as possible to help you, the students.
+Welcome to the Lakehead University Computer Science Society. Here we'll try to gather as much information as possible to help you, the students.
 
 If you have questions, or don't find the answer here - feel free to contact us!
 
