@@ -8,10 +8,23 @@ Computer Science has grown into an incredibly broad topic - almost every field o
 
 So, what is computer science? Google tells me it's the "study of the principles and use of computers", but that's not a very good description. So here's what MTU says:
 
-`Computer science is a discipline that spans theory and practice. It requires thinking both in abstract terms and in concrete terms. The practical side of computing can be seen everywhere. Nowadays, practically everyone is a computer user, and many people are even computer programmers. Getting computers to do what you want them to do requires intensive hands-on experience. But computer science can be seen on a higher level, as a science of problem solving. Computer scientists must be adept at modeling and analyzing problems. They must also be able to design solutions and verify that they are correct. Problem solving requires precision, creativity, and careful reasoning.
-Computer science also has strong connections to other disciplines. Many problems in science, engineering, health care, business, and other areas can be solved effectively with computers, but finding a solution requires both computer science expertise and knowledge of the particular application domain. Thus, computer scientists often become proficient in other subjects.
+    Computer science is a discipline that spans theory and practice. It requires thinking
+    both in abstract terms and in concrete terms. The practical side of computing can be seen
+    everywhere. Nowadays, practically everyone is a computer user, and many people are even
+    computer programmers. Getting computers to do what you want them to do requires intensive
+    hands-on experience. But computer science can be seen on a higher level, as a science of
+    problem solving. Computer scientists must be adept at modeling and analyzing problems.
+    They must also be able to design solutions and verify that they are correct. Problem
+    solving requires precision, creativity, and careful reasoning.
 
-Finally, computer science has a wide range of specialties. These include computer architecture, software systems, graphics, artifical intelligence, computational science, and software engineering. Drawing from a common core of computer science knowledge, each specialty area focuses on particular challenges.`
+    Computer science also has strong connections to other disciplines. Many problems in science,
+    engineering, health care, business, and other areas can be solved effectively with computers,
+    but finding a solution requires both computer science expertise and knowledge of
+    the particular application domain. Thus, computer scientists often become proficient in other subjects.
+
+    Finally, computer science has a wide range of specialties. These include computer architecture,
+    software systems, graphics, artifical intelligence, computational science, and software engineering.
+    Drawing from a common core of computer science knowledge, each specialty area focuses on particular challenges.
 
 ##Streams
 
@@ -93,22 +106,39 @@ For a 100.0 GPA scale (the type that Lakehead uses) you don't need to do anythin
 
 Coming someday.
 
-###The Tough classes and How to Survive
+###The Tough Classes and How to Survive
 
-###The Project classes and How to Survive
+A class being 'hard' is generally pretty subjective, it really depends on what you're interested in. In computer science, a class definitely doesn't have to be difficult if you put the time in. Not only this, but there are so many resources it's extremely difficult NOT to find an answer to your question.
 
-###The Group Classes and How to Survive
+Important things to remember for classes you're finding had:
+  <ol>
+  <li> YouTube is your friend. Type in the subject and you'll likely find an explanation of it.</li>
+  <li> Do your assignments. Even if you're not 100% sure how to do an assignment/implement an algorithm, do what you can. You'll be surprised the marks you can get by just doing as much as you can.</li>
+  <li> Try not to code an entire project in one night. You'll be surprised the problems you can run into.</li>
+  <li> Talk to your professor, they're always willing to help and will sometimes give you a very detailed explanation of what you need to do</li>
+  <li> This is probably the most obvious one for a programmer, but if you can't immediately think of how to solve a problem, check Stackoverflow, because there's a 99% chance someone has already solved it.</li>
+  </ol>
+###The Project Classes and How to Survive
 
-###Student Resources
-####Textbook Resources
+After your first couple years, there are ALOT of project classes you'll be taking. These consist of classes where the majority of your mark is coming from projects you do in class, or where the projects themselves will be taking up most of your time. These include:
 
-###Referral Guide
-####Issues with Grades
-####Accommodations/missed tests
+* Mobile computing
+    * In this one, you'll have ~5 projects that you're given 1 week to complete. YOU WILL NEED THIS ENTIRE WEEK. The programming languages you use vary from week to week, and you'll often need to learn ones you've never had exposure to while you're completing the project. You will likely not have been taught any web development at this point, but will have a project due 2 weeks after class starts that is entirley HTML/javascript.
+* Cloud computing/Web Health Informatics/Big Data
+    * These three all have one major project in them that runs the course of the semester. You pick your own project (with guidance) from the professor, so make sure you pick something you'll be interested in working on for the next 4 months.
+* Advanced project
+    * This is the class held in your final semester where you choose to either make a 3D multiplayer game, or a project of sufficient challenge unrelated to gaming. There are options given to you by the professor, but you are free to choose your own as long as you submit a proposal and it gets approved. Again, make sure to pick something you're interested in, double points if you make something that has value.
 
-##Getting Started In Computer science
+###Issues with Grades
+
+If you have an issue with your final grade, and have a valid complaint, there's a good chance you can get your final grade amended. There's a fairly in depth [document](https://www.lakeheadu.ca/faculty-and-staff/policies/student-related/reappraisal-and-academic-appeals/) that has all the details on submitting an academic appeal.
+
+If it turns out you didn't pass a class, but had a mark greater than 40%, you can usually write a special exam that can bump your mark up to a passing grade.
+
 ###Essential Software
-What is an IDE? Best IDE's?
 
-###What is Github
-Download links, why github, short tutorial and link to github tutorial
+In your first you'll be using Visual Studio 20XX almost exclusively, so make sure you install it wherever you need to and learn how to use it. Of course this is what the school uses because they have largely Windows machines, but Xcode or some other C/C++ IDE (integrated development environment, the placey ou actually write your code) such as CodeBlocks will work just fine. Visual Studio and Xcode are by far the most beginner-friendly, and both still have plenty of features.
+
+In second year you start to move away from C and C++ and into Java/web development. You'll definitely need a nice IDE for Java, the professor will recommend Netbeans, but IntelliJ IDEA is an excellent choice as well. For web development you have a lot more choices because you're just writing code, not compiling it. Good text editors are: Atom, Sublime Text, Notepad++.
+
+In later years you'll be working with so many programming languages, and will have likely built up your own preferences, it's best to find your own at that point.
