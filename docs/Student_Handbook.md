@@ -137,7 +137,7 @@ If it turns out you didn't pass a class, but had a mark greater than 40%, you ca
 
 ###Essential Software
 
-In your first you'll be using Visual Studio 20XX almost exclusively, so make sure you install it wherever you need to and learn how to use it. Of course this is what the school uses because they have largely Windows machines, but Xcode or some other C/C++ IDE (integrated development environment, the placey ou actually write your code) such as CodeBlocks will work just fine. Visual Studio and Xcode are by far the most beginner-friendly, and both still have plenty of features.
+In your first you'll be using Visual Studio 20XX almost exclusively, so make sure you install it wherever you need to and learn how to use it. Of course this is what the school uses because they have largely Windows machines, but Xcode or some other C/C++ IDE (integrated development environment, the place you actually write your code) such as CodeBlocks will work just fine. Visual Studio and Xcode are by far the most beginner-friendly, and both still have plenty of features.
 
 In second year you start to move away from C and C++ and into Java/web development. You'll definitely need a nice IDE for Java, the professor will recommend Netbeans, but IntelliJ IDEA is an excellent choice as well. For web development you have a lot more choices because you're just writing code, not compiling it. Good text editors are: Atom, Sublime Text, Notepad++.
 
