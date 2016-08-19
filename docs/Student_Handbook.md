@@ -106,12 +106,34 @@ For a 100.0 GPA scale (the type that Lakehead uses) you don't need to do anythin
 
 Coming someday.
 
+####Beginning a New School Year
+
+#####Remember to do Your Best Because
+  <ul>
+  <li>You, or your parents are paying for you education. So, the less courses you repeat, the more you save.</li>
+  <li>Once you graduate, you will need to prove you know what you claim to know, when it comes to getting a job.</li>
+  <li>You may want to go to grad school after. To get into grad school, you need high marks for your undergrad.</li>
+  <li>Learning computer science is awesome! You will be able to determine what aspects of the field insipre you, with the more you learn.</li>
+  </ul>
+  
+#####Materials to Get
+
+  <ul>
+  <li>Laptop (duh). Make sure it runs smoothly, and the wi-fi works. Other than that, any laptop and operating system is fine.</li>
+  <li>Pencil, pens, eraser.</li>
+  <li>Notebook. Ones with 5 sections in it are great, only need one notebook for the semester.</li>
+  <li>Lined paper, calculator. (If you're taking math courses, this is a must)</li>
+  <li>Books. Go to LU's online book store, select your classes, and find the books you need.
+        Note: You may not need the book, depending on the course. If you do need it, type the "{{book's names}} + pdf" into Google and download it to your computer using the browser's tools (Safari ex: File -> Export as PDF...), or search a torrent site such as (https://www.thepiratebay.org) and (https://kat.al). You might be able to save a couple hundred dollars.</li>
+  </ul>
+
 ###The Tough Classes and How to Survive
 
 A class being 'hard' is generally pretty subjective, it really depends on what you're interested in. In computer science, a class definitely doesn't have to be difficult if you put the time in. Not only this, but there are so many resources it's extremely difficult NOT to find an answer to your question.
 
-Important things to remember for classes you're finding had:
+Important things to remember for classes you're finding difficult:
   <ol>
+  <li>Literally type your questions into Google. Despite your parents not being able to master this skill, we believe in you!</li>
   <li> YouTube is your friend. Type in the subject and you'll likely find an explanation of it.</li>
   <li> Do your assignments. Even if you're not 100% sure how to do an assignment/implement an algorithm, do what you can. You'll be surprised the marks you can get by just doing as much as you can.</li>
   <li> Try not to code an entire project in one night. You'll be surprised the problems you can run into.</li>
