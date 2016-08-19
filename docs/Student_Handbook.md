@@ -110,7 +110,7 @@ Coming someday.
 
 #####Remember to do Your Best Because
   <ul>
-  <li>You, or your parents are paying for you education. So, the less courses you repeat, the more you save.</li>
+  <li>You, or your parents are paying for your education. So, the less courses you repeat, the more you save.</li>
   <li>Once you graduate, you will need to prove you know what you claim to know, when it comes to getting a job.</li>
   <li>You may want to go to grad school after. To get into grad school, you need high marks for your undergrad.</li>
   <li>Learning computer science is awesome! You will be able to determine what aspects of the field insipre you, with the more you learn.</li>
