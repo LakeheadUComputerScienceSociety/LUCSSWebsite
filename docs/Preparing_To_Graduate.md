@@ -14,3 +14,20 @@ There are tons of resources for practice interview questions on the internet, he
 ##Crafting the Perfect Programming Resume
 
 If you book a meeting with the student success center in the tunnels, they'll help you craft the perfect resume for the job you're applying for. Anything I can say on the topic - I'm sure they will say better, so here's the [link to their page](https://www.lakeheadu.ca/current-students/jobs-and-career/job-search/writing-resumes).
+
+##Helpful Job Related Things to Know (taken from LU's co-op prep sessions)
+
+####Job Searching Techinques
+(https://docs.google.com/presentation/u/1/d/1dvkBmxpu4mInH3_VsVZcKhRmBf-v520KWDk5P4e_Jho/pub?start=false&loop=false&delayms=60000)
+
+####Networking
+(https://docs.google.com/presentation/d/1FnAAS1IwG8QE7WYb63PCU4tIxyH3OZR59nOqrVJmXAI/pub?start=false&loop=false&delayms=60000&slide=id.p3)
+
+####Interview Skills
+(https://docs.google.com/presentation/d/1AGUmTYzEB6TSoGMO-kWL9GgrwQ3Zx1ZOQSK2RdISeDg/pub?start=false&loop=false&delayms=60000&slide=id.p3)
+
+####Workplace Issues
+(https://docs.google.com/presentation/d/1cp5TkO7Brfm7VgOIv-P1uq_TBIAuhtdf9WU6gOxoJCM/pub?start=false&loop=false&delayms=60000&slide=id.p3)
+
+####Transitioning from Student to Employee
+(https://docs.google.com/presentation/d/1q8izY3mOXJbZ_5cXdyeQNQLK79PpBNXm0WwYrnptH0k/pub?start=false&loop=false&delayms=60000&slide=id.p3)
