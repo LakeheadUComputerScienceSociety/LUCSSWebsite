@@ -3,7 +3,17 @@
 </center>
 <br>
 Welcome to the Lakehead University Computer Science Society. Here we'll try to gather as much information as possible to help you, the students.
+<br>
 
+<center>
+##Interested in Joining?
+####Find us at the [LUSU Club Directory](http://clubs.lusu.ca/Directory/ThunderBay), or go directly to the sign-up page [here](http://bit.ly/LUCompSci)
+
+[![LUSU Logo](./Images/LUSU.png)](http://bit.ly/LUCompSci)
+</center>
+ 
+<br>
+ 
 If you have questions, or don't find the answer here - feel free to contact us!
 
 <br>
