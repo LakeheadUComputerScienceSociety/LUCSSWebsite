@@ -1,4 +1,4 @@
-#Preparing To Graduate
+<!--#Preparing To Graduate-->
 Finishing school this year? Congrats! All that hard work is about to probably pay off, now all you have to do is pass Theory of Computing, hand in your final project, and you're ready to move on! Oh yeah, and find a job. We're here to help with that.
 
 ##The Programming Interview
@@ -18,16 +18,16 @@ If you book a meeting with the student success center in the tunnels, they'll he
 ##Helpful Job Related Things to Know (taken from LU's co-op prep sessions)
 
 ####Job Searching Techinques
-(https://docs.google.com/presentation/u/1/d/1dvkBmxpu4mInH3_VsVZcKhRmBf-v520KWDk5P4e_Jho/pub?start=false&loop=false&delayms=60000)
+[Link on Google Docs](https://docs.google.com/presentation/u/1/d/1dvkBmxpu4mInH3_VsVZcKhRmBf-v520KWDk5P4e_Jho/pub?start=false&loop=false&delayms=60000)
 
 ####Networking
-(https://docs.google.com/presentation/d/1FnAAS1IwG8QE7WYb63PCU4tIxyH3OZR59nOqrVJmXAI/pub?start=false&loop=false&delayms=60000&slide=id.p3)
+[Link on Google Docs](https://docs.google.com/presentation/d/1FnAAS1IwG8QE7WYb63PCU4tIxyH3OZR59nOqrVJmXAI/pub?start=false&loop=false&delayms=60000&slide=id.p3)
 
 ####Interview Skills
-(https://docs.google.com/presentation/d/1AGUmTYzEB6TSoGMO-kWL9GgrwQ3Zx1ZOQSK2RdISeDg/pub?start=false&loop=false&delayms=60000&slide=id.p3)
+[Link on Google Docs](https://docs.google.com/presentation/d/1AGUmTYzEB6TSoGMO-kWL9GgrwQ3Zx1ZOQSK2RdISeDg/pub?start=false&loop=false&delayms=60000&slide=id.p3)
 
 ####Workplace Issues
-(https://docs.google.com/presentation/d/1cp5TkO7Brfm7VgOIv-P1uq_TBIAuhtdf9WU6gOxoJCM/pub?start=false&loop=false&delayms=60000&slide=id.p3)
+[Link on Google Docs](https://docs.google.com/presentation/d/1cp5TkO7Brfm7VgOIv-P1uq_TBIAuhtdf9WU6gOxoJCM/pub?start=false&loop=false&delayms=60000&slide=id.p3)
 
 ####Transitioning from Student to Employee
-(https://docs.google.com/presentation/d/1q8izY3mOXJbZ_5cXdyeQNQLK79PpBNXm0WwYrnptH0k/pub?start=false&loop=false&delayms=60000&slide=id.p3)
+[Link on Google Docs](https://docs.google.com/presentation/d/1q8izY3mOXJbZ_5cXdyeQNQLK79PpBNXm0WwYrnptH0k/pub?start=false&loop=false&delayms=60000&slide=id.p3)

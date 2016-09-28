@@ -1,5 +1,3 @@
-#About
-
 The LUCSS is a Lakehead University (soon to be) society for computer science students. Our goal is to provide you with as much information as possible to be successful in your academic career, and hopefully help you gain the skills you need for your post-grad career as well.
 
 ##Founders

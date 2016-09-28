@@ -1,5 +1,3 @@
-#External Links
-
 There are links we personally found extremely helpful throughout our university careers. We put them here, so that you don't have to go hunting for information.
 
 * [Github](http://www.github.com)

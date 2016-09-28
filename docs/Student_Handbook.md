@@ -1,5 +1,3 @@
-#Student Handbook
-
 This is your primary resource. Here is information on the computer science program, its faculty, its classes, how to survive the tough ones, and plenty more. Thinking of entering computer science? You'll find plenty of information here on enrollment, what courses to register for, and tips on traversing Lakehead's website (e.g. avoid doing that).
 
 ##Introduction
