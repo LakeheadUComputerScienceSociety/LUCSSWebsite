@@ -23,7 +23,7 @@ If you have questions, or don't find the answer here - feel free to contact us!
 [![Slack Logo](./Images/Slack.png)](https://slack.com/)
 </center>
 
-Slack is a cool chat startup that is designed for collaborating teams of people. It's very similar to any other group chats, with tons of extra features, such as programmability. You can install it on any the Play Store or the App Store, there's also a desktop & web version available that offer more customization options. Our Slack channel is called LUCompSci, join it after you've downloaded. 
+Slack is a cool chat startup that is designed for collaboration. It's very similar to any other group chat application, with tons of extra features, such as programmability. You can install it through the Play Store or the App Store. There's also a desktop & web version available that offer more customization options. Our Slack channel is called LUCompSci.
 
 <br>
 
@@ -32,4 +32,4 @@ Slack is a cool chat startup that is designed for collaborating teams of people.
 [![Github Logo](./Images/Github.png)](https://github.com/)
 </center>
 
-Github is an absolute must have for any programmer. It is an extensive tool for collaborating on coding projects. This way, people can work on the same project without being in the same room, without major conflicts. Not only this, but you can also use it as a portfolio for future jobs. Throw any project you've been working on (solo or in a group) onto github, and show it off when the time comes. Once you have github, you can join [our](https://github.com/LakeheadUComputerScienceSociety) organization and contribute to projects specific to LU, or start your own.
+Github is an absolute must have for any programmer. It is an extensive tool for project collaboration. This way, people can work on the same project without being in the same room, without major conflicts. Not only this, but you can also use it as a portfolio for future jobs. Throw any project you've been working on (solo or in a group) onto github, and show it off when the time comes. Once you have github, you can join [our](https://github.com/LakeheadUComputerScienceSociety) organization and contribute to projects specific to LU, or start your own.
