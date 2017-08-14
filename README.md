@@ -1,6 +1,6 @@
 # Lakehead University Computer Science Club
 This repository contains the source file for the website hosted at 
-http://p24601.github.io/ComputerScienceClub/
+http://lucss.ca
 
 If you find any bugs, issues or have concerns with the site, please submit an issue to us through GitHub, and we will deal 
 with it as quickly as possible
